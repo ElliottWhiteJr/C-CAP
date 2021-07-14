@@ -1,0 +1,12 @@
+1996,2016,Freq,,,1996,2016,Freq,
+Z,L,10487.40417,black,darkgreen,llCFW,llFreshwater Scrub/Shrub,10487.40417,
+Z,K,4694.87939,lightgreen,purple,llCFW,kkFreshwater Marsh,4694.87939,
+Z,J,519.8966,darkgreen,chocolate,llCFW,jjAgriculture,519.8966,
+Z,I,1166.7198,black,gray,llCFW,iiDeveloped,1166.7198,
+Z,H,435.5989,yellow,blue,llCFW,hhWater,435.5989,
+Z,G,2183.7302,blue,yellow,llCFW,ggTerrestrial,2183.7302,
+Z,F,177.1686,gray,red,llCFW,ffUnvegetated,171.5886,F
+C,Z,3344.3717,brown,darkgreen,llCFW,eeOther Wetlands,5.58,F
+B,Z,2272.5945,lightgreen,purple,ddFreshwater Scrub/Shrub,zzCFW,3344.3717,
+A,Z,282.0708,darkgreen,red,ccFreshwater Marsh,zzCFW,2272.5945,
+,,,,,aaAll Other,zzCFW,282.0708,
