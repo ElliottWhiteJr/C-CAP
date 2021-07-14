@@ -59,8 +59,7 @@ setwd("your file path")
   # The 0.0009 converts the count of pixels to km^2
   swampFrequency <- as.data.frame(fromJSON(file = 'swampFrequency.json'))*.0009
   swampGain <- as.data.frame(fromJSON(file = 'swampGain.json'))*.0009
-  waterFrequency <- as.data.frame(fromJSON(file = 'waterFrequency.json'))*.0009
-  
+   
   
   ### Alluvial Frequencies
   swampAlluvial <- read.csv('alluvialTry.csv')
